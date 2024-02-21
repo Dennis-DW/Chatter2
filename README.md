@@ -82,23 +82,3 @@ This project is inspired by various chat applications and tutorials available on
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Name: Dennis Wambua
-State/Location:Nairobi/Kenya
-Skill:Web3 Developer
-Expectations: Networking ,Job Opportunities
