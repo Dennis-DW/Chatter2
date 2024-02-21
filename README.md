@@ -81,4 +81,3 @@ This project is inspired by various chat applications and tutorials available on
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
