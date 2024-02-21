@@ -11,7 +11,6 @@ This React component handles user authentication, ChatEngine setup, and user cre
 
 ![chatpage](https://github.com/Dennis-DW/Chatter2/blob/main/assets/images/Screenshot%20from%202023-10-31%2014-12-30.png)
 
-```markdown
 
 ## Features
 
